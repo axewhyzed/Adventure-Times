@@ -8,9 +8,22 @@ Adventure Times is a 3D platformer game that combines fast-paced action with cha
 
 ## Screenshots / Demo
 
-![Start Screen](Images/start-screen.png)
-![Level 1](Images/level1.png)
-![Level 2](Images/level2.png)
-![End Screen](Images/end-screen.png)
+### Gameplay
 
 Check out the gameplay video on YouTube: [Adventure Times Gameplay](https://youtu.be/fWHmH_Syn1A)
+
+### Start Screen
+
+![Start Screen](Images/start-screen.png)
+
+### Level 1
+
+![Level 1](Images/level1.png)
+
+### Level 2
+
+![Level 2](Images/level2.png)
+
+### End Screen
+
+![End Screen](Images/end-screen.png)
